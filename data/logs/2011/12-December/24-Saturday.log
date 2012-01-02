@@ -1,0 +1,52 @@
+
+
+Starting up. 02:00.20
+---------------------
+
+Saved mode is 'extended'
+
+
+Starting up. 02:05.02
+---------------------
+
+Saved mode is 'extended'
+
+
+Starting up. 02:08.43
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Host
+(02:08:43)ACCESS: Login: Tastyfish/(Tastyfish) from localhost
+(02:09:32)ADMIN: Tastyfish has started the game.
+(02:09:33)ACCESS: Logout: (Tastyfish)
+(02:09:33)ACCESS: Login: Tastyfish/(Cerol Bed) from localhost
+(02:09:59)ACCESS: Logout: (Cerol Bed)
+(02:09:59)ACCESS: Login: Tastyfish/(hjh) from localhost
+(02:10:15)GAME: Rebooting because of no live players
+(02:10:15)ACCESS: Logout: Tastyfish(the hjh)
+
+
+Starting up. 02:10.36
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Host
+
+
+Starting up. 02:11.16
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Host
+(02:11:17)ACCESS: Login: Tastyfish/(Tastyfish) from localhost
+(02:12:07)ACCESS: Logout: (Tastyfish)
+(02:12:07)ACCESS: Login: Tastyfish from localhost
+(02:12:18)ADMIN: Tastyfish jumped to Bridge
+(02:12:36)ADMIN: Tastyfish created a /mob/living/carbon/human
+(02:13:04)ACCESS: Logout: ()
+(02:13:04)ACCESS: Login: Tastyfish/(Tastyfish) from localhost
+(02:13:38)OOC: Tastyfish/Tastyfish : :&lt;
+(02:14:26)ACCESS: Logout: (Tastyfish)
+(02:14:26)ACCESS: Login: Tastyfish/(Cog Urist) from localhost
+(02:15:00)ACCESS: Logout: Tastyfish(Cog Urist)

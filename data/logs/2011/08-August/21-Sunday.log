@@ -1,0 +1,43 @@
+
+
+Starting up. 01:06.15
+---------------------
+
+Saved mode is 'extended'
+
+
+Starting up. 01:06.30
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(01:06:58)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(01:07:18)ADMIN: Tastyfish has started the game.
+(01:07:18)ACCESS: Logout: *no client*/(Tastyfish)
+(01:07:18)ACCESS: Login: Tastyfish/(Geshud Trap) from 127.0.0.1
+(01:07:33)ADMIN: Tastyfish/(Geshud Trap) made all areas unpowered
+(01:07:33)ADMIN: Tastyfish/(Geshud Trap) used secret unpower
+(01:07:35)ADMIN: Tastyfish/(Geshud Trap) made all areas powered
+(01:07:35)ADMIN: Tastyfish/(Geshud Trap) used secret power
+(01:07:51)ADMIN: Tastyfish/(Geshud Trap) used everyone is a traitor secret. Objective is Eat donuts.
+(01:07:51)ADMIN: Tastyfish/(Geshud Trap) used secret traitor_all
+(01:09:24)ADMIN: Geshud Trap(tastyfish) has triggered the mysterious package with the lighter.
+(01:11:21)SAY: Geshud Trap/Tastyfish : *wink
+(01:11:25)SAY: Geshud Trap/Tastyfish : *wink
+(01:15:44)ADMIN: Tastyfish/(Geshud Trap) has created a command report: buo
+(01:15:58)ACCESS: Logout: *no client*/(Geshud Trap)
+(01:15:58)ACCESS: Login: Tastyfish/(Jo) from 127.0.0.1
+(01:17:50)GAME: Rebooting because of no live players
+(01:17:50)ACCESS: Logout: Tastyfish/(Jo)
+
+
+Starting up. 01:17.52
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(01:18:02)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(01:18:17)ADMIN: Tastyfish has started the game.
+(01:18:17)ACCESS: Logout: *no client*/(Tastyfish)
+(01:18:17)ACCESS: Login: Tastyfish/(Nomal Zombie) from 127.0.0.1
+(01:25:24)ACCESS: Logout: Tastyfish/(Nomal Zombie)

@@ -1,0 +1,242 @@
+
+
+Starting up. 12:51.36
+---------------------
+
+(12:51:37)ADMIN: not connected
+(12:51:37)ACCESS: Login: Tastyfish/(Tastyfish) from localhost
+(12:51:37)ADMIN: not connected
+(12:51:37)ADMIN: not connected
+(12:51:37)ADMIN: not connected
+(12:51:37)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:52)ADMIN: not connected
+(12:51:59)ADMIN: not connected
+(12:51:59)ADMIN: not connected
+(12:51:59)ADMIN: not connected
+(12:51:59)ADMIN: not connected
+(12:51:59)ADMIN: not connected
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(12:55:25)ACCESS: Logout: *no client*/(Tastyfish)
+(12:55:25)ACCESS: Login: Tastyfish/(Nil Lever) from localhost
+(12:56:48)ACCESS: Logout: Tastyfish/(Nil Lever)
+
+
+Starting up. 12:59.29
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(13:00:14)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(13:02:24)ADMIN: Tastyfish has started the game.
+(13:02:25)ACCESS: Logout: *no client*/(Tastyfish)
+(13:02:25)ACCESS: Login: Tastyfish/(Ingiz Hammer) from 127.0.0.1
+(13:02:33)ADMIN: Announce: Tastyfish/(Ingiz Hammer) : bup
+(13:02:47)ADMIN: Tastyfish/(Ingiz Hammer) toggled new player game entering.
+(13:02:49)ADMIN: Tastyfish/(Ingiz Hammer) toggled new player game entering.
+(13:03:05)ADMIN: A custom vote forced by admin Tastyfish/(Ingiz Hammer)
+(13:03:47)ADMIN: Tastyfish/(Ingiz Hammer) has created a command report: WHAT WAS THAT
+(13:04:05)SAY: Ingiz Hammer/Tastyfish : pie
+(13:04:16)VOTE: Voting closed, result was CHEESE!@
+(13:06:10)ACCESS: Logout: *no client*/(Ingiz Hammer)
+(13:06:10)ACCESS: Login: Tastyfish/(Nanotransen Health Official) from 127.0.0.1
+(13:06:44)SAY: Nanotransen Health Official/Tastyfish : ;Attention, The Nanotransen Health Department will arrive in 10 minutes.
+(13:10:07)ADMIN: Tastyfish/(Nanotransen Health Official) has used boom boom boom shake the room
+(13:13:05)ADMIN: Tastyfish/(Nanotransen Health Official) has used boom boom boom shake the room
+(13:13:20)ADMIN: Tastyfish/(Nanotransen Health Official) initiated a reboot.
+(13:13:31)ACCESS: Logout: Tastyfish/(Nanotransen Health Official)
+
+
+Starting up. 13:16.32
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(13:33:40)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(13:34:33)ADMIN: Tastyfish has started the game.
+(13:34:33)ACCESS: Logout: *no client*/(Tastyfish)
+(13:34:33)ACCESS: Login: Tastyfish/(Geshud Spike) from 127.0.0.1
+(13:34:42)ADMIN: Tastyfish/(Geshud Spike) has created a command report: eh
+(15:14:38)ADMIN: PM: Tastyfish/(Geshud Spike)->Tastyfish/(Geshud Spike) : bup
+(15:14:49)ADMIN: Tastyfish/(Geshud Spike) AIized Tastyfish/(Geshud Spike)
+(15:14:50)ADMIN: AIizing... (This sometimes might be failing during ai construct boot)
+(15:14:50)ADMIN: AIizing: Mind transfer
+(15:14:50)ACCESS: Logout: *no client*/(Geshud Spike)
+(15:14:50)ACCESS: Login: Tastyfish/(Geshud Spike) from 127.0.0.1
+(15:14:50)ADMIN: AIizing: Mind transfered
+(15:14:50)ADMIN: AIizing: Moving to start (End logging, when a construct fails to fully AIize, it doesn't move)
+(15:41:27)ACCESS: Logout: Tastyfish/(T.E.S.T.)
+(18:36:02)ADMIN: HELP: Tastyfish/(T.E.S.T.): halp
+
+
+Starting up. 19:45.43
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(19:45:56)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(19:47:53)ADMIN: Tastyfish has started the game.
+(19:48:12)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(19:48:31)ACCESS: Logout: Tastyfish/(Tastyfish)
+
+
+Starting up. 19:50.33
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(19:50:38)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(19:50:48)ADMIN: Tastyfish has started the game.
+(19:50:49)ACCESS: Logout: *no client*/(Tastyfish)
+(19:50:49)ACCESS: Login: Tastyfish/(Kumil Plump) from 127.0.0.1
+(19:51:24)SAY: Copy Machine/Tastyfish : hello
+(19:51:53)SAY: Copy Machine/Tastyfish : TONER NEEDED
+(19:51:54)ACCESS: Logout: Tastyfish/(Copy Machine)
+
+
+Starting up. 20:18.19
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(20:18:24)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(20:19:01)ADMIN: Tastyfish has started the game.
+(20:19:02)ACCESS: Logout: *no client*/(Tastyfish)
+(20:19:02)ACCESS: Login: Tastyfish/(Shorast Copper) from 127.0.0.1
+(20:22:58)ACCESS: Logout: Tastyfish/(Shorast Copper)
+
+
+Starting up. 20:25.44
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(20:25:46)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(20:25:53)ADMIN: Tastyfish has started the game.
+(20:25:53)ACCESS: Logout: *no client*/(Tastyfish)
+(20:25:53)ACCESS: Login: Tastyfish/(Nomal Crossbow) from 127.0.0.1
+(20:26:09)ACCESS: Logout: Tastyfish/(Nomal Crossbow)
+
+
+Starting up. 20:43.49
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(20:43:57)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(20:44:05)ADMIN: Tastyfish has started the game.
+(20:44:06)ACCESS: Logout: *no client*/(Tastyfish)
+(20:44:06)ACCESS: Login: Tastyfish/(Likot Engraving) from 127.0.0.1
+(20:44:45)ADMIN: Tastyfish/(Likot Engraving) created a /obj/item/weapon/paper_bin
+(20:44:56)ADMIN: Tastyfish/(Likot Engraving) created a /obj/item/weapon/pen
+(20:45:03)ADMIN: Tastyfish/(Likot Engraving) created a /obj/item/weapon/stamp
+(20:49:41)ACCESS: Logout: Tastyfish/(Likot Engraving)
+
+
+Starting up. 20:50.19
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+
+
+Starting up. 20:51.05
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(20:51:07)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(20:51:14)ADMIN: Tastyfish has started the game.
+(20:51:14)ACCESS: Logout: *no client*/(Tastyfish)
+(20:51:14)ACCESS: Login: Tastyfish/(Fath Steel) from 127.0.0.1
+(20:51:41)ADMIN: Tastyfish/(Fath Steel) created a /obj/item/weapon/paper_bin
+(20:51:59)ADMIN: Tastyfish/(Fath Steel) created a /obj/item/weapon/stamp
+(21:37:51)ACCESS: Logout: Tastyfish/(Fath Steel)
+
+
+Starting up. 21:42.51
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(21:42:56)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(21:43:06)ADMIN: Tastyfish has started the game.
+(21:43:06)ACCESS: Logout: *no client*/(Tastyfish)
+(21:43:06)ACCESS: Login: Tastyfish/(Cog Axe) from 127.0.0.1
+(21:43:32)ADMIN: Tastyfish/(Cog Axe) created a /obj/item/weapon/paper_bin
+(21:43:38)ADMIN: Tastyfish/(Cog Axe) created a /obj/item/weapon/stamp
+(21:49:49)ADMIN: Tastyfish/(Cog Axe) modified Copy Machine's icon_state to copier_s
+(21:52:01)ACCESS: Logout: Tastyfish/(Cog Axe)
+
+
+Starting up. 21:52.49
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(21:53:12)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(21:53:26)ACCESS: Logout: Tastyfish/(Tastyfish)
+
+
+Starting up. 21:55.11
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+
+
+Starting up. 22:03.29
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(22:03:34)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(22:03:44)ADMIN: Tastyfish has started the game.
+(22:03:45)ACCESS: Logout: *no client*/(Tastyfish)
+(22:03:45)ACCESS: Login: Tastyfish/(Ingiz Goblin) from 127.0.0.1
+(22:05:40)ACCESS: Logout: Tastyfish/(Ingiz Goblin)
+
+
+Starting up. 22:09.23
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(22:09:33)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(22:09:41)ADMIN: Tastyfish has started the game.
+(22:09:41)ACCESS: Logout: *no client*/(Tastyfish)
+(22:09:41)ACCESS: Login: Tastyfish/(Shorast Plot) from 127.0.0.1
+(22:12:04)ACCESS: Logout: Tastyfish/(Shorast Plot)
+
+
+Starting up. 22:13.09
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(22:13:12)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(22:13:20)ADMIN: Tastyfish has started the game.
+(22:13:20)ACCESS: Logout: *no client*/(Tastyfish)
+(22:13:20)ACCESS: Login: Tastyfish/(Minkot Wall) from 127.0.0.1
+(22:15:19)ACCESS: Logout: Tastyfish/(Minkot Wall)

@@ -1,0 +1,190 @@
+New Day, continuing from previous
+---------------------
+Adding game mode AutoTraitor (Extend-A-Traitormongous) to configuration.
+Adding game mode Traitor (traitor) to configuration.
+Adding game mode derelict (derelict) to configuration.
+Adding game mode Extended Role-Playing (extended) to configuration.
+Adding game mode hostile takeover (takeover) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode Corporate Restructuring (restructuring) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode Sandbox (sandbox) to configuration.
+Reading configuration file config/config.txt
+Unknown game mode probability configuration definition: malfunction.
+Unknown game mode probability configuration definition: blob.
+Unknown game mode probability configuration definition: wizard.
+
+
+Starting up. 00:00.16
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:00:37)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:00:49)ADMIN: Tastyfish has started the game.
+(00:00:50)ACCESS: Logout: *no client*/(Tastyfish)
+(00:00:50)ACCESS: Login: Tastyfish/(Shorast Crossbow) from 127.0.0.1
+(00:01:01)ADMIN: Tastyfish/(Shorast Crossbow) jumped to Chapel
+(00:08:18)ADMIN: Tastyfish/(Shorast Crossbow) deleted Printing Press at (61,109,3)
+(00:08:39)ADMIN: Tastyfish/(Shorast Crossbow) created a /obj/machinery/news_printer
+(00:10:01)ACCESS: Logout: Tastyfish/(Shorast Crossbow)
+
+
+Starting up. 00:12.48
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:12:50)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:13:17)ADMIN: Tastyfish has started the game.
+(00:13:18)ACCESS: Logout: *no client*/(Tastyfish)
+(00:13:18)ACCESS: Login: Tastyfish/(Nomal Spike) from 127.0.0.1
+(00:13:38)ADMIN: Tastyfish/(Nomal Spike) jumped to Chapel
+(00:17:06)ACCESS: Logout: Tastyfish/(Nomal Spike)
+
+
+Starting up. 00:19.02
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:19:03)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:19:30)ADMIN: Tastyfish has started the game.
+(00:19:30)ACCESS: Logout: *no client*/(Tastyfish)
+(00:19:30)ACCESS: Login: Tastyfish/(Tholig Engraving) from 127.0.0.1
+(00:19:43)ADMIN: Tastyfish/(Tholig Engraving) jumped to Chapel
+(00:19:57)SAY: monkey (631)/ : *drool
+(00:20:21)SAY: monkey (783)/ : *drool
+(00:20:33)SAY: monkey (631)/ : *drool
+(00:20:42)SAY: monkey (631)/ : *drool
+(00:20:58)SAY: monkey (176)/ : *drool
+(00:21:09)ACCESS: Logout: Tastyfish/(Tholig Engraving)
+
+
+Starting up. 00:22.37
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:22:39)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:23:00)ADMIN: Tastyfish has started the game.
+(00:23:00)ACCESS: Logout: *no client*/(Tastyfish)
+(00:23:00)ACCESS: Login: Tastyfish/(Besmar Whip) from 127.0.0.1
+(00:23:01)SAY: monkey (660)/ : *twitch
+(00:23:07)ADMIN: Tastyfish/(Besmar Whip) jumped to Chapel
+(00:23:18)ADMIN: Tastyfish/(Besmar Whip) jumped to Chapel
+(00:24:48)SAY: monkey (205)/ : *twitch
+(00:24:54)SAY: monkey (205)/ : *twitch
+(00:26:04)SAY: monkey (884)/ : *twitch
+(00:26:13)SAY: monkey (205)/ : *twitch
+(00:26:19)SAY: monkey (205)/ : *twitch
+(00:26:25)SAY: monkey (884)/ : *twitch
+(00:26:31)SAY: monkey (884)/ : *twitch
+(00:27:01)SAY: monkey (884)/ : *twitch
+(00:27:13)SAY: monkey (884)/ : *twitch
+(00:27:22)SAY: monkey (884)/ : *twitch
+(00:27:37)SAY: monkey (205)/ : *twitch
+(00:27:40)SAY: monkey (884)/ : *twitch
+(00:27:52)SAY: monkey (660)/ : *twitch
+(00:27:58)ACCESS: Logout: Tastyfish/(Besmar Whip)
+
+
+Starting up. 00:30.17
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:30:19)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:30:41)ADMIN: Tastyfish has started the game.
+(00:30:42)ACCESS: Logout: *no client*/(Tastyfish)
+(00:30:42)ACCESS: Login: Tastyfish/(Minkot Microcline) from 127.0.0.1
+(00:30:43)SAY: monkey (960)/ : *twitch
+(00:30:46)ADMIN: Tastyfish/(Minkot Microcline) jumped to Chapel
+(00:33:39)SAY: monkey (701)/ : *twitch
+(00:33:39)SAY: monkey (534)/ : *twitch
+(00:34:09)SAY: monkey (534)/ : *twitch
+(00:34:13)ACCESS: Logout: Tastyfish/(Minkot Microcline)
+
+
+Starting up. 00:37.39
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:38:35)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:38:47)ADMIN: Tastyfish has started the game.
+(00:38:48)ACCESS: Logout: *no client*/(Tastyfish)
+(00:38:48)ACCESS: Login: Tastyfish/(Endok Bronze) from 127.0.0.1
+(00:38:55)ADMIN: Tastyfish/(Endok Bronze) jumped to Chapel
+(00:39:05)ADMIN: Tastyfish/(Endok Bronze) jumped to 61,120,3 in Chapel
+(00:42:09)ACCESS: Logout: Tastyfish/(Endok Bronze)
+
+
+Starting up. 00:44.30
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:44:50)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:45:00)ADMIN: Tastyfish has started the game.
+(00:45:00)ACCESS: Logout: *no client*/(Tastyfish)
+(00:45:00)ACCESS: Login: Tastyfish/(Geshud Door) from 127.0.0.1
+(00:45:05)ADMIN: Tastyfish/(Geshud Door) jumped to Chapel
+(00:48:20)ACCESS: Logout: Tastyfish/(Geshud Door)
+
+
+Starting up. 00:50.39
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(00:51:30)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(00:51:38)ADMIN: Tastyfish has started the game.
+(00:51:39)ACCESS: Logout: *no client*/(Tastyfish)
+(00:51:39)ACCESS: Login: Tastyfish/(Cerol Murdered) from 127.0.0.1
+(00:51:45)ADMIN: Tastyfish/(Cerol Murdered) jumped to Chapel
+(00:54:52)ACCESS: Logout: Tastyfish/(Cerol Murdered)
+
+
+Starting up. 01:00.08
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(01:00:12)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(01:00:33)ADMIN: Tastyfish has started the game.
+(01:00:34)ACCESS: Logout: *no client*/(Tastyfish)
+(01:00:34)ACCESS: Login: Tastyfish/(Ingiz Death) from 127.0.0.1
+(01:00:39)ADMIN: Tastyfish/(Ingiz Death) jumped to Chapel
+(01:08:34)ACCESS: Logout: Tastyfish/(Ingiz Death)
+(01:08:34)ACCESS: Login: Tastyfish/(Ingiz Death) from 127.0.0.1
+(01:08:47)ACCESS: Logout: Tastyfish/(Ingiz Death)
+
+
+Starting up. 01:16.54
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(01:16:57)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(01:17:42)ADMIN: Tastyfish has started the game.
+(01:17:44)ACCESS: Logout: *no client*/(Tastyfish)
+(01:17:44)ACCESS: Login: Tastyfish/(Likot Zombie) from 127.0.0.1
+(01:17:53)ADMIN: Tastyfish/(Likot Zombie) jumped to Chapel
+(01:29:34)ACCESS: Logout: Tastyfish/(Likot Zombie)
+
+
+Starting up. 01:30.16
+---------------------
+
+Saved mode is 'extended'
+ADMIN: tastyfish = Super Administrator
+(01:30:57)ACCESS: Login: Tastyfish/(Tastyfish) from 127.0.0.1
+(01:31:09)ADMIN: Tastyfish has started the game.
+(01:31:10)ACCESS: Logout: *no client*/(Tastyfish)
+(01:31:10)ACCESS: Login: Tastyfish/(Ingiz Lever) from 127.0.0.1
+(01:31:14)ADMIN: Tastyfish/(Ingiz Lever) jumped to Chapel
+(01:50:57)ACCESS: Logout: Tastyfish/(Ingiz Lever)
