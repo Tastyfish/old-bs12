@@ -7,7 +7,7 @@
 	stat = 2
 	canmove = 0
 	if (blind)
-		blind.layer = 0
+		blind.alpha = 0
 	lying = 1
 	var/h = hand
 	hand = 0

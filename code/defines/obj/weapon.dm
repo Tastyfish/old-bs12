@@ -459,18 +459,18 @@
 /obj/item/weapon/implant
 	name = "implant"
 	var/implanted = null
-	var/color = "b"
+	var/color_name = "b"
 
 
 /obj/item/weapon/implant/freedom
 	name = "freedom"
 	var/uses = 1.0
-	color = "r"
+	color_name = "r"
 	var/activation_emote = "chuckle"
 
 /obj/item/weapon/implant/compressed
 	name = "compressed matter implants"
-	color = "r"
+	color_name = "r"
 	var/activation_emote = "chuckle"
 	var/obj/scanned = null
 
@@ -608,7 +608,7 @@
 	name = "Paint Can"
 	icon = 'old_or_unused.dmi'
 	icon_state = "paint_neutral"
-	var/color = "neutral"
+	var/color_name = "neutral"
 	item_state = "paintcan"
 	w_class = 3.0
 

@@ -373,6 +373,7 @@
 	using.screen_loc = "11,1 to 15,15"
 	using.layer = 17
 	using.mouse_opacity = 0
+	using.alpha = 0
 	vimpaired += using
 
 	mymob.throw_icon = new /obj/screen(null)
@@ -432,8 +433,9 @@
 	mymob.blind.icon_state = "black"
 	mymob.blind.name = " "
 	mymob.blind.screen_loc = "1,1 to 15,15"
-	mymob.blind.layer = 0
+	mymob.blind.alpha = 0
 	mymob.blind.mouse_opacity = 0
+	mymob.blind.alpha = 0
 
 	mymob.flash = new /obj/screen( null )
 	mymob.flash.icon_state = "blank"

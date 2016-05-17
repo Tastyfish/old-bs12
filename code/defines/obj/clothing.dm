@@ -5,7 +5,7 @@
 //	var/obj/item/clothing/master = null
 
 	var/see_face = 1.0
-	var/color = null
+	var/color_name = null
 
 	var/body_parts_covered = 0 //see setup.dm for appropriate bit flags
 
@@ -736,7 +736,7 @@
 	name = "Chameleon Jumpsuit"
 	icon_state = "black"
 	item_state = "bl_suit"
-	color = "black"
+	color_name = "black"
 	desc = null
 	var/list/clothing_choices = list()
 
@@ -746,57 +746,57 @@
 	name = "Black Jumpsuit"
 	icon_state = "black"
 	item_state = "bl_suit"
-	color = "black"
+	color_name = "black"
 
 /obj/item/clothing/under/color/blue
 	name = "Blue Jumpsuit"
 	icon_state = "blue"
 	item_state = "b_suit"
-	color = "blue"
+	color_name = "blue"
 
 /obj/item/clothing/under/color/green
 	name = "Green Jumpsuit"
 	icon_state = "green"
 	item_state = "g_suit"
-	color = "green"
+	color_name = "green"
 
 /obj/item/clothing/under/color/grey
 	name = "Grey Jumpsuit"
 	icon_state = "grey"
 	item_state = "gy_suit"
-	color = "grey"
+	color_name = "grey"
 
 /obj/item/clothing/under/color/orange
 	name = "Orange Jumpsuit"
 	icon_state = "orange"
 	item_state = "o_suit"
-	color = "orange"
+	color_name = "orange"
 
 /obj/item/clothing/under/color/pink
 	name = "Pink Jumpsuit (F)"
 	icon_state = "pink"
 	item_state = "p_suit"
-	color = "pink"
+	color_name = "pink"
 
 /obj/item/clothing/under/color/red
 	name = "Red Jumpsuit"
 	icon_state = "red"
 	item_state = "r_suit"
-	color = "red"
+	color_name = "red"
 
 /obj/item/clothing/under/color/white
 	desc = "Made of a special fiber that gives special protection against biohazards."
 	name = "White Jumpsuit"
 	icon_state = "white"
 	item_state = "w_suit"
-	color = "white"
+	color_name = "white"
 	permeability_coefficient = 0.50
 
 /obj/item/clothing/under/color/yellow
 	name = "Yellow Jumpsuit"
 	icon_state = "yellow"
 	item_state = "y_suit"
-	color = "yellow"
+	color_name = "yellow"
 
 // RANKS
 
@@ -805,28 +805,28 @@
 	name = "Atmospherics Jumpsuit"
 	icon_state = "atmos"
 	item_state = "y_suit"
-	color = "atmos"
+	color_name = "atmos"
 
 /obj/item/clothing/under/rank/captain
 	desc = "It has a Captains rank stripe on it."
 	name = "Captain Jumpsuit"
 	icon_state = "captain"
 	item_state = "dg_suit"
-	color = "captain"
+	color_name = "captain"
 
 /obj/item/clothing/under/rank/counselor
 	desc = "It has a Counselor rank stripe on it."
 	name = "Counselor Jumpsuit"
 	icon_state = "counselor"
 	item_state = "bl_suit"
-	color = "counselor"
+	color_name = "counselor"
 
 /obj/item/clothing/under/rank/chemist
 	desc = "Made of a special fiber that gives protection against biohazards. Has a Chemist rank stripe on it."
 	name = "Chemistry Jumpsuit"
 	icon_state = "chemistry"
 	item_state = "w_suit"
-	color = "chemistry"
+	color_name = "chemistry"
 	permeability_coefficient = 0.40
 
 /obj/item/clothing/under/rank/engineer
@@ -834,21 +834,21 @@
 	name = "Engineering Jumpsuit"
 	icon_state = "engine"
 	item_state = "y_suit"
-	color = "engine"
+	color_name = "engine"
 
 /obj/item/clothing/under/rank/forensic_technician
 	desc = "It has a Forensics rank stripe on it."
 	name = "Forensics Jumpsuit"
 	icon_state = "darkred"
 	item_state = "r_suit"
-	color = "forensicsred"
+	color_name = "forensicsred"
 
 /obj/item/clothing/under/rank/geneticist
 	desc = "Made of a special fiber that gives protection against biohazards. Has a genetics rank stripe on it."
 	name = "Genetics Jumpsuit"
 	icon_state = "genetics"
 	item_state = "w_suit"
-	color = "geneticswhite"
+	color_name = "geneticswhite"
 	permeability_coefficient = 0.50
 
 /obj/item/clothing/under/rank/head_of_personnel
@@ -856,41 +856,41 @@
 	name = "Head of Personnel Jumpsuit"
 	icon_state = "hop"
 	item_state = "b_suit"
-	color = "hopblue"
+	color_name = "hopblue"
 
 /obj/item/clothing/under/rank/head_of_security
 	desc = "It has a Head of Security rank stripe on it."
 	name = "Head of Security Jumpsuit"
 	icon_state = "hos"
 	item_state = "r_suit"
-	color = "hosred"
+	color_name = "hosred"
 
 /obj/item/clothing/under/rank/chief_engineer
 	desc = "It has a Chief Engineer rank stripe on it."
 	name = "Chief Engineer Jumpsuit"
 	icon_state = "chiefengineer"
 	item_state = "g_suit"
-	color = "chief"
+	color_name = "chief"
 
 /obj/item/clothing/under/rank/research_director
 	desc = "It has a Research Director rank stripe on it."
 	name = "Research Director Jumpsuit"
 	icon_state = "director"
 	item_state = "g_suit"
-	color = "director"
+	color_name = "director"
 
 /obj/item/clothing/under/rank/janitor
 	desc = "The janitorial crew jumpsuit."
 	name = "Janitor's Jumpsuit"
 	icon_state = "janitor"
-	color = "janitor"
+	color_name = "janitor"
 
 /obj/item/clothing/under/rank/scientist
 	desc = "Made of a special fiber that gives special protection against biohazards. Has a toxins rank stripe on it."
 	name = "Scientist's Jumpsuit"
 	icon_state = "toxins"
 	item_state = "w_suit"
-	color = "toxinswhite"
+	color_name = "toxinswhite"
 	permeability_coefficient = 0.50
 
 /obj/item/clothing/under/rank/medical
@@ -898,7 +898,7 @@
 	name = "Medical Doctor's Jumpsuit"
 	icon_state = "medical"
 	item_state = "w_suit"
-	color = "medical"
+	color_name = "medical"
 	permeability_coefficient = 0.50
 
 /obj/item/clothing/under/rank/hydroponics
@@ -906,7 +906,7 @@
 	name = "Hydroponics Jumpsuit"
 	icon_state = "hydroponics"
 	item_state = "g_suit"
-	color = "hydroponics"
+	color_name = "hydroponics"
 	permeability_coefficient = 0.50
 
 /obj/item/clothing/under/rank/roboticist
@@ -914,7 +914,7 @@
 	name = "Robotics Jumpsuit"
 	icon_state = "robotics"
 	item_state = "bl_suit"
-	color = "robotics"
+	color_name = "robotics"
 	siemens_coefficient = 0.50
 
 // OTHER NONRANKED STATION JOBS
@@ -924,33 +924,33 @@
 	name = "Bartender's Uniform"
 	icon_state = "ba_suit"
 	item_state = "ba_suit"
-	color = "ba_suit"
+	color_name = "ba_suit"
 
 /obj/item/clothing/under/clown
 	name = "clown suit"
 	desc = "Wearing this, all the children love you, for all the wrong reasons."
 	icon_state = "clown"
-	color = "clown"
+	color_name = "clown"
 
 /obj/item/clothing/under/chef
 	desc = "Issued only to the most hardcore chefs in space."
 	name = "Chef's Uniform"
 	icon_state = "chef"
-	color = "chef"
+	color_name = "chef"
 
 /obj/item/clothing/under/det
 	name = "Hard worn suit"
 	desc = "Someone who wears this means business"
 	icon_state = "detective"
 	item_state = "det"
-	color = "detective"
+	color_name = "detective"
 
 /obj/item/clothing/under/ftech
 	name = "forensic technician jumpsuit"
 	desc = "A variant of the security outfit, for forensic techs."
 	icon_state = "forensicsred"
 	item_state = "r_suit"
-	color = "forensicsred"
+	color_name = "forensicsred"
 
 /obj/item/clothing/under/lawyer
 	desc = "Slick threads."
@@ -960,38 +960,38 @@
 /obj/item/clothing/under/lawyer/black
 	icon_state = "lawyer_black"
 	item_state = "lawyer_black"
-	color = "lawyer_black"
+	color_name = "lawyer_black"
 
 /obj/item/clothing/under/lawyer/red
 	icon_state = "lawyer_red"
 	item_state = "lawyer_red"
-	color = "lawyer_red"
+	color_name = "lawyer_red"
 
 /obj/item/clothing/under/lawyer/blue
 	icon_state = "lawyer_blue"
 	item_state = "lawyer_blue"
-	color = "lawyer_blue"
+	color_name = "lawyer_blue"
 
 
 /obj/item/clothing/under/sl_suit
 	desc = "A very amish looking suit"
 	name = "Amish Suit"
 	icon_state = "sl_suit"
-	color = "sl_suit"
+	color_name = "sl_suit"
 
 /obj/item/clothing/under/cargo
 	name = "Quartermaster's Jumpsuit"
 	desc = "What can brown do for you?"
 	icon_state = "lightbrown"
 	item_state = "lb_suit"
-	color = "cargo"
+	color_name = "cargo"
 
 /obj/item/clothing/under/syndicate
 	name = "Tactical Turtleneck"
 	desc = "Non-descript, slightly suspicious civilian clothing."
 	icon_state = "syndicate"
 	item_state = "bl_suit"
-	color = "syndicate"
+	color_name = "syndicate"
 
 
 // Athletic shorts.. heh
@@ -1002,20 +1002,20 @@
 
 /obj/item/clothing/under/shorts/red
 	icon_state = "redshorts"
-	color = "redshorts"
+	color_name = "redshorts"
 
 /obj/item/clothing/under/shorts/green
 	icon_state = "greenshorts"
-	color = "greenshorts"
+	color_name = "greenshorts"
 
 /obj/item/clothing/under/shorts/blue
 	icon_state = "blueshorts"
-	color = "blueshorts"
+	color_name = "blueshorts"
 
 /obj/item/clothing/under/shorts/black
 	icon_state = "blackshorts"
-	color = "blackshorts"
+	color_name = "blackshorts"
 
 /obj/item/clothing/under/shorts/grey
 	icon_state = "greyshorts"
-	color = "greyshorts"
+	color_name = "greyshorts"

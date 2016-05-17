@@ -10,7 +10,7 @@
 
 		canmove = 0
 		if(src.client)
-			blind.layer = 0
+			blind.alpha = 0
 		lying = 1
 		var/h = src.hand
 		hand = 0

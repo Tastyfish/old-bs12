@@ -35,6 +35,7 @@ datum/controller/game_controller
 			world.load_motd()
 			world.load_rules()
 			world.load_admins()
+			world.load_testers()
 			world.update_status()
 
 		ShieldNetwork = new /datum/shieldnetwork()

@@ -11,7 +11,8 @@
 	blind.icon_state = "black"
 	blind.name = " "
 	blind.screen_loc = "1,1 to 15,15"
-	blind.layer = 0
+	blind.alpha = 0
+	blind.alpha = 0
 	client.screen += list( blind, flash )
 
 	if(stat != 2)

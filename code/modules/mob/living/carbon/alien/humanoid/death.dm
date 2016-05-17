@@ -9,7 +9,7 @@
 
 		canmove = 0
 		if(client)
-			blind.layer = 0
+			blind.alpha = 0
 		lying = 1
 		var/h = hand
 		hand = 0

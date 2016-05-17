@@ -1119,7 +1119,7 @@
 						for(var/obj/item/clothing/under/W in world)
 							W.icon_state = "schoolgirl"
 							W.item_state = "w_suit"
-							W.color = "schoolgirl"
+							W.color_name = "schoolgirl"
 						message_admins("[key_name_admin(usr)] activated Japanese Animes mode")
 					else
 						alert("You cannot perform this action. You must be of a higher administrative rank!")
